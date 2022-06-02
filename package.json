@@ -1,9 +1,9 @@
 {
-  "name": "api",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "devDependencies": {
-    "git-commit-msg-linter": "^4.1.3"
-  }
+    "name": "api",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "devDependencies": {
+        "git-commit-msg-linter": "^4.1.3"
+    }
 }
