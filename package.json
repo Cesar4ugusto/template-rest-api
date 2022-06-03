@@ -1,8 +1,20 @@
 {
     "name": "api",
     "version": "1.0.0",
-    "main": "index.js",
-    "license": "MIT",
+    "author": {
+        "name": "Cesar Augusto",
+        "email": "cesarapolidorio@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Cesar4ugusto/template-rest-api",
+        "private": false
+    },
+    "homepage": "https://github.com/Cesar4ugusto",
+    "engines": {
+        "node": "16.x"
+    },
+    "license": "GPL-3.0-or-later",
     "scripts": {
         "dev": "tsnd -r tsconfig-paths/register src/main/server.ts",
         "start": "node dist/main/server.js",
